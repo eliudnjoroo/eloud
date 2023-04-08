@@ -56,7 +56,7 @@ public class Main {
     			 				}
     }catch(Exception e){
     				System.out.println("@@@@@@@@@@@@@\nerror<101>!!! \ncalculator unexpectedly clossed\nenter numbers only to keep your calculator running properly\n exit the app and try again.");
-    			 }
+    		 }
     }
  
 }
